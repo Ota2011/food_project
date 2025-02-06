@@ -385,7 +385,7 @@ textarea {
     #contact .contact-content {
       flex-direction: column;
     }
-    @media (max-width: 600px) {
+    @media (max-width: 433.60px) {
       #navbar {
         flex-direction: column;
       }
